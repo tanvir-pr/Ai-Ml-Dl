@@ -1,0 +1,57 @@
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+ml_env/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files
+*.csv
+*.pkl
+*.h5
+*.hdf5
+*.db
+*.sqlite
+
+# Model files
+*.pth
+*.pt
+*.ckpt
+*.pb
+
+# Generated files
+figure.png
+figure.pdf
+figure.svg
+sample_data.csv
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Datasets (large files)
+datasets/*.csv
+datasets/*.zip
+datasets/*.tar.gz
+
+# Logs
+*.log
+logs/
