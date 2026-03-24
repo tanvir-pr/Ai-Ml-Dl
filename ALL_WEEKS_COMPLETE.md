@@ -15,7 +15,7 @@ Your 3-month ML/DL learning path is now **100% complete** with full content for 
 - **Week 6:** Tree-Based Models ✅ (4 notebooks)
 - **Week 7:** Unsupervised Learning ✅ (4 notebooks)
 - **Week 8:** Model Evaluation & Deployment ✅ (4 notebooks)
-
+ 
 ### Month 3: Deep Learning
 - **Week 9:** Neural Networks Basics ✅ (5 notebooks)
 - **Week 10:** CNNs & Computer Vision ✅ (5 notebooks)

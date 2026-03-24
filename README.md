@@ -1,5 +1,7 @@
 # 3-Month Machine Learning & Deep Learning Learning Path
 
+**Confused by folders?** Read [FOLDER_GUIDE.md](FOLDER_GUIDE.md) — it explains every month, week, and file type.
+
 ## Welcome! 🚀
 
 This is your comprehensive, hands-on learning path to master Machine Learning and Deep Learning from fundamentals to advanced concepts. Designed for intermediate learners with 10-20 hours/week commitment.
