@@ -2,6 +2,8 @@
 
 **Purpose:** Academic & job preparation reference. All topics with concise explanations.
 
+**Course order (week by week):** [LEARNING_PATH.md](LEARNING_PATH.md)
+
 ---
 
 ## Quick Navigation
@@ -317,7 +319,7 @@
 1. **Interview prep:** Scan topics; ensure you can explain each in 1–2 sentences.
 2. **Academic study:** Map topics to your syllabus; use as checklist.
 3. **Book mapping:** Use the book sections to find where each topic is covered.
-4. **Cross-reference:** See `math_topics.md`, `classical_ml_topics.md`, `deep_learning_topics.md` for full topic lists without explanations.
+4. **Cross-reference:** See `LEARNING_PATH.md` for the week-by-week curriculum; this file expands individual topics for revision.
 
 ---
 
